@@ -28,7 +28,7 @@ twitter_username: oliveruh_
 github_username:  oliverbot
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
